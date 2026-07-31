@@ -8,10 +8,10 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 * 🌱 Exploring **AI-assisted development, DevOps, and modern software practices**
 
 <p>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://johnleonardlibanan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/johnleonardlibanan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
