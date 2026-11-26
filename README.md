@@ -1,10 +1,10 @@
 <h2>Hi 👋, I'm John Leonard</h2>
 
-Computer Engineering Graduate and Full-Stack Developer with hands-on experience building responsive websites, business platforms, and custom web applications through freelance work, internships, and academic projects.
+Computer Engineering Graduate and Full-Stack Developer with hands-on experience building responsive websites, business platforms, desktop tools, and custom web applications through freelance work, internships, government work, and academic projects.
 
-* 💻 Building applications with **React, TypeScript, JavaScript, Node.js, PHP, Laravel**
+* 💻 Building applications with **React, TypeScript, JavaScript, Node.js, PHP, Laravel, Python**
 * ⚡ Focused on **clean UI, performance, responsive design, and maintainable code**
-* 🔌 Experienced with **REST APIs, database design, and full-stack development**
+* 🔌 Experienced with **REST APIs, database design, automation, and full-stack development**
 * 🌱 Exploring **AI-assisted development, DevOps, and modern software practices**
 
 <p>
@@ -27,6 +27,7 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
+![React Router](https://img.shields.io/badge/-React_Router-000?style=flat&logo=reactrouter)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?style=flat&logo=wordpress)
 ![Elementor](https://img.shields.io/badge/-Elementor-000?style=flat&logo=elementor)
 
@@ -36,6 +37,15 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
+
+### Desktop, Automation & Games
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Tkinter](https://img.shields.io/badge/-Tkinter-000?style=flat&logo=python)
+![PyInstaller](https://img.shields.io/badge/-PyInstaller-000?style=flat&logo=python)
+![Pygame](https://img.shields.io/badge/-Pygame-000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=dotnet)
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity)
 
 ### Database
 
@@ -55,6 +65,15 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 
 ## 📌 My Work Includes
 
+* 👕 **[Porma](https://porma.vercel.app)**  
+  Fashion discovery site that showcases apparel and links shoppers to Shopee and TikTok Shop. Built with React, Vite, and Tailwind CSS.
+
+* 🗓️ **[DTR Filler](https://dtrfiller.vercel.app)**  
+  Fills in the Civil Service Form No. 48 Daily Time Record, ready to download or print. All data stays in the browser.
+
+* 🩺 **iClinicSys Tools 1.0**  
+  Python desktop app that automates PhilHealth Konsulta paperwork for a Rural Health Unit.
+
 * 🌾 **Rice Plant Health Monitoring System**  
   Full-stack monitoring platform using React, TypeScript, Node.js, Express, PostgreSQL, and Supabase.
 
@@ -67,6 +86,9 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 * 📦 **Inventory Management System**  
   Business management application for tracking products and operations.
 
+* 🎮 **Typing Warriors & World of Dungeon**  
+  Games built with Python/Pygame and Unity/C#.
+
 * 🌐 **WordPress Websites & Business Platforms**  
   Built and maintained client websites using WordPress and Elementor.
 
@@ -77,12 +99,15 @@ Computer Engineering Graduate and Full-Stack Developer with hands-on experience 
 * Building scalable and maintainable applications
 * Creating responsive and accessible user interfaces
 * Designing clean APIs and database structures
-* Improving development workflows with modern tools
+* Automating repetitive work with practical tools
 * Continuous learning and improving software engineering skills
 
 ---
 
 ## 💼 Experience
+
+* 🏥 Encoder & Software Developer  
+  Rural Health Unit — building tools that automate records and paperwork.
 
 * 🚀 Full-Stack Developer (Freelance)  
   Building websites, business systems, and custom applications.
